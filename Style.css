@@ -1,0 +1,32 @@
+/* General body styles */
+body {
+    font-family: 'Arial', sans-serif; /* Default font */
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+#header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 20px; /* Padding around the header */
+    text-align: center; /* Centered text */
+}
+
+/* Main content styles */
+.main-content {
+    margin: 20px; /* Margin around the main content */
+    padding: 20px; /* Padding inside the main content */
+    background-color: white; /* White background for content */
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Image styles */
+.image-style {
+    width: 100%; /* Full width */
+    max-width: 400px; /* Maximum width */
+    border: 2px solid #4CAF50; /* Green border */
+    border-radius: 10px
